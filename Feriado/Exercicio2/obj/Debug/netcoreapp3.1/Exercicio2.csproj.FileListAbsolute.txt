@@ -1,0 +1,13 @@
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.exe
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.deps.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.dev.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.csprojAssemblyReference.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfo.cs
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-09\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.genruntimeconfig.cache
