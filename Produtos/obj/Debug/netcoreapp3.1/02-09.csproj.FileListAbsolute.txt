@@ -11,3 +11,16 @@ C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\02-09\obj\Debug\netcoreapp
 C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\02-09\obj\Debug\netcoreapp3.1\02-09.dll
 C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\02-09\obj\Debug\netcoreapp3.1\02-09.pdb
 C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\02-09\obj\Debug\netcoreapp3.1\02-09.genruntimeconfig.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\bin\Debug\netcoreapp3.1\02-09.exe
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\bin\Debug\netcoreapp3.1\02-09.deps.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\bin\Debug\netcoreapp3.1\02-09.runtimeconfig.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\bin\Debug\netcoreapp3.1\02-09.runtimeconfig.dev.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\bin\Debug\netcoreapp3.1\02-09.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\bin\Debug\netcoreapp3.1\02-09.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\obj\Debug\netcoreapp3.1\02-09.csprojAssemblyReference.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\obj\Debug\netcoreapp3.1\02-09.AssemblyInfoInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\obj\Debug\netcoreapp3.1\02-09.AssemblyInfo.cs
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\obj\Debug\netcoreapp3.1\02-09.csproj.CoreCompileInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\obj\Debug\netcoreapp3.1\02-09.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\obj\Debug\netcoreapp3.1\02-09.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\POO-Git\POO\Produtos\obj\Debug\netcoreapp3.1\02-09.genruntimeconfig.cache

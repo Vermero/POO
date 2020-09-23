@@ -1,35 +1,44 @@
 ﻿using static System.Console;
 using System;
+using System.Globalization;
 
 namespace _02_09
 {
     public class Produto
     {
-        public string nome;
-        public double preco;
-        public int quantidade;
+        public string Nome;
+        public double Preco;
+        public int Quantidade;
 
         public double ValorTotalEstoque()
         {
-            WriteLine(preco);
-            WriteLine(quantidade);
-            double total = preco * quantidade;
-            WriteLine("\r\nDados do produto:\r\n" + nome + "\r\nR$" + preco + "\r\n" + quantidade + " unidades\r\n" + "total: R$" + total);
+            double total = Preco * Quantidade;
+            WriteLine("\r\nDados do produto:\r\n" + Nome + "\r\nR$" + Preco + "\r\n" + Quantidade + " unidades\r\n" + "total: R$" + total);
             return total;
         }
 
-        public void AdicionarProdutos(int quantidade1)
+        public void AdicionarProdutos(int quantidade)
         {
             WriteLine("\r\nDigite o número a ser adicionado no estoque: ");
-            quantidade1 = int.Parse(ReadLine());
-            quantidade = quantidade + quantidade1;
+            quantidade = int.Parse(ReadLine());
+            Quantidade = Quantidade + quantidade;
         }
 
-        public void RemoverProdutos (int quantidade2)
+        public void RemoverProdutos (int quantidade)
         {
             WriteLine("\r\nDigite o número a ser removido do estoque: ");
-            quantidade2 = int.Parse(ReadLine());
-            quantidade = quantidade - quantidade2;
+            quantidade = int.Parse(ReadLine());
+            Quantidade = Quantidade - quantidade;
+        }
+
+        public override string ToString()
+        {
+            return Nome
+                + ", $"
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
+                + Quantidade
+                + "unidades, Total: $ "
+                + ValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 

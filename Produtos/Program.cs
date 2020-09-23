@@ -14,13 +14,13 @@ namespace _02_09
 
             WriteLine("Entre com os produtos: ");
             Write("Nome: ");
-            produto.nome = ReadLine();
+            produto.Nome = ReadLine();
 
             Write("Preço: ");
-            produto.preco = double.Parse(ReadLine());
+            produto.Preco = double.Parse(ReadLine());
 
             Write("Quantidade em estoque: ");
-            produto.quantidade = int.Parse(ReadLine());
+            produto.Quantidade = int.Parse(ReadLine());
 
             #endregion
 
@@ -28,10 +28,10 @@ namespace _02_09
 
             produto.ValorTotalEstoque();
             
-            produto.AdicionarProdutos(produto.quantidade);
+            produto.AdicionarProdutos(produto.Quantidade);
             produto.ValorTotalEstoque();
 
-            produto.RemoverProdutos(produto.quantidade);
+            produto.RemoverProdutos(produto.Quantidade);
             produto.ValorTotalEstoque();
 
             #endregion

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vermero\\Documents\\Faculdade\\2º Semestre\\POO\\02-09\\02-09.csproj",
+      "projectUniqueName": "C:\\Users\\Vermero\\Documents\\Faculdade\\2º Semestre\\POO\\POO-Git\\POO\\Produtos\\02-09.csproj",
       "projectName": "02-09",
-      "projectPath": "C:\\Users\\Vermero\\Documents\\Faculdade\\2º Semestre\\POO\\02-09\\02-09.csproj",
+      "projectPath": "C:\\Users\\Vermero\\Documents\\Faculdade\\2º Semestre\\POO\\POO-Git\\POO\\Produtos\\02-09.csproj",
       "packagesPath": "C:\\Users\\Vermero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vermero\\Documents\\Faculdade\\2º Semestre\\POO\\02-09\\obj\\",
+      "outputPath": "C:\\Users\\Vermero\\Documents\\Faculdade\\2º Semestre\\POO\\POO-Git\\POO\\Produtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vermero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
