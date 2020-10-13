@@ -1,0 +1,13 @@
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\07-10\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
