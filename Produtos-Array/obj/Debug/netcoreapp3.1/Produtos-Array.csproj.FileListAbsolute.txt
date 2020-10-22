@@ -1,0 +1,13 @@
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\bin\Debug\netcoreapp3.1\Produtos-Array.exe
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\bin\Debug\netcoreapp3.1\Produtos-Array.deps.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\bin\Debug\netcoreapp3.1\Produtos-Array.runtimeconfig.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\bin\Debug\netcoreapp3.1\Produtos-Array.runtimeconfig.dev.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\bin\Debug\netcoreapp3.1\Produtos-Array.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\bin\Debug\netcoreapp3.1\Produtos-Array.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\obj\Debug\netcoreapp3.1\Produtos-Array.csprojAssemblyReference.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\obj\Debug\netcoreapp3.1\Produtos-Array.AssemblyInfoInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\obj\Debug\netcoreapp3.1\Produtos-Array.AssemblyInfo.cs
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\obj\Debug\netcoreapp3.1\Produtos-Array.csproj.CoreCompileInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\obj\Debug\netcoreapp3.1\Produtos-Array.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\obj\Debug\netcoreapp3.1\Produtos-Array.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\19-10\Produtos-Array\obj\Debug\netcoreapp3.1\Produtos-Array.genruntimeconfig.cache
