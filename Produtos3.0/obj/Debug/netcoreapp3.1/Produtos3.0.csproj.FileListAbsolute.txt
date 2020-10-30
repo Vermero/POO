@@ -1,0 +1,13 @@
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\bin\Debug\netcoreapp3.1\Produtos3.0.exe
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\bin\Debug\netcoreapp3.1\Produtos3.0.deps.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\bin\Debug\netcoreapp3.1\Produtos3.0.runtimeconfig.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\bin\Debug\netcoreapp3.1\Produtos3.0.runtimeconfig.dev.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\bin\Debug\netcoreapp3.1\Produtos3.0.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\bin\Debug\netcoreapp3.1\Produtos3.0.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\obj\Debug\netcoreapp3.1\Produtos3.0.csprojAssemblyReference.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\obj\Debug\netcoreapp3.1\Produtos3.0.AssemblyInfoInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\obj\Debug\netcoreapp3.1\Produtos3.0.AssemblyInfo.cs
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\obj\Debug\netcoreapp3.1\Produtos3.0.csproj.CoreCompileInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\obj\Debug\netcoreapp3.1\Produtos3.0.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\obj\Debug\netcoreapp3.1\Produtos3.0.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\28-09\Produtos3.0\obj\Debug\netcoreapp3.1\Produtos3.0.genruntimeconfig.cache
