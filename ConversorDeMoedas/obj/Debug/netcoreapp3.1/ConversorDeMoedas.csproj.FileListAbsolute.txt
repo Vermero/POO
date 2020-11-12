@@ -1,0 +1,13 @@
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\bin\Debug\netcoreapp3.1\ConversorDeMoedas.exe
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\bin\Debug\netcoreapp3.1\ConversorDeMoedas.deps.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\bin\Debug\netcoreapp3.1\ConversorDeMoedas.runtimeconfig.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\bin\Debug\netcoreapp3.1\ConversorDeMoedas.runtimeconfig.dev.json
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\bin\Debug\netcoreapp3.1\ConversorDeMoedas.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\bin\Debug\netcoreapp3.1\ConversorDeMoedas.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\obj\Debug\netcoreapp3.1\ConversorDeMoedas.csprojAssemblyReference.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\obj\Debug\netcoreapp3.1\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\obj\Debug\netcoreapp3.1\ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\obj\Debug\netcoreapp3.1\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\obj\Debug\netcoreapp3.1\ConversorDeMoedas.dll
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\obj\Debug\netcoreapp3.1\ConversorDeMoedas.pdb
+C:\Users\Vermero\Documents\Faculdade\2º Semestre\POO\14-09\ConversorDeMoedas\obj\Debug\netcoreapp3.1\ConversorDeMoedas.genruntimeconfig.cache
