@@ -1,0 +1,13 @@
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.exe
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.deps.json
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.json
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.dev.json
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.dll
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.pdb
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.csprojAssemblyReference.cache
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfoInputs.cache
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfo.cs
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.csproj.CoreCompileInputs.cache
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.dll
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.pdb
+F:\julio\Documentos\Faculdade\2º Semestre\POO\02-11\Matrizes (feriado)\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.genruntimeconfig.cache
