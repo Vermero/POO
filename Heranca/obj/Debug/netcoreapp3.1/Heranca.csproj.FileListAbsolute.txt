@@ -1,0 +1,13 @@
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\bin\Debug\netcoreapp3.1\Heranca.exe
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\bin\Debug\netcoreapp3.1\Heranca.deps.json
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\bin\Debug\netcoreapp3.1\Heranca.dll
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\bin\Debug\netcoreapp3.1\Heranca.pdb
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\obj\Debug\netcoreapp3.1\Heranca.csprojAssemblyReference.cache
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.CoreCompileInputs.cache
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
+F:\julio\Documentos\Faculdade\2º Semestre\POO\09-11\Heranca\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache
