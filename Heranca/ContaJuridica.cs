@@ -17,6 +17,7 @@ public class ContaJuridica : Conta
 	{
 		EmprestimoLimite = emprestimoLimite;
 	}
+
 	public void Emprestimo(double saldoTotal)
 	{
 		if (saldoTotal <= EmprestimoLimite)

@@ -4,11 +4,11 @@ using System;
 public class Conta
 {
 	//Declarações de variáveis e uso de Encapsulamento
-	public int Numero {get; private set;}
-	public string Titular {get; private set;}
+	public int Numero{get; private set;}
+	public string Titular{get; private set;}
 	
 	//Utilização do protected para alteração de valores entre classes
-	public double Saldo {get; protected set;}
+	public double Saldo{get; protected set;}
 	
 	//Criação do construtor padrão e do construtor com parâmetros
 	public Conta()
@@ -16,7 +16,7 @@ public class Conta
 
 	}
 	
-	public Conta (int numero, string titular, double saldo)
+	public Conta(int numero, string titular, double saldo)
 	{
 		Numero = numero; 
 		Titular = titular; 
@@ -24,9 +24,9 @@ public class Conta
 	}
 	
 	//Método de Saque
-	public void Saque(double saldoTotal)
+	public virtual void Saque(double saldoTotal)
 	{
-		Saldo -= saldoTotal;
+		Saldo -= saldoTotal + 5.0;
 	}
 	
 	//Método de Deposito
