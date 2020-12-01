@@ -1,0 +1,4 @@
+F:\julio\Documentos\Faculdade\2º Semestre\POO\23-11\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.csprojAssemblyReference.cache
+F:\julio\Documentos\Faculdade\2º Semestre\POO\23-11\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.AssemblyInfoInputs.cache
+F:\julio\Documentos\Faculdade\2º Semestre\POO\23-11\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.AssemblyInfo.cs
+F:\julio\Documentos\Faculdade\2º Semestre\POO\23-11\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.csproj.CoreCompileInputs.cache
